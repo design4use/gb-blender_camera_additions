@@ -1,5 +1,5 @@
 # Blender add-on: Camera additions
-In 3D view, it adds to the View|Cameras menu:
+##In 3D view, it adds to the View|Cameras menu:
 
 View → Camera : set the current camera to the 3D view
 
