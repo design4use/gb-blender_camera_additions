@@ -14,6 +14,7 @@ Camera → View : Set the 3D view to the current camera
 Previous Camera : Use the previous camera (if multiple cameras are set up)
 
 Next Camera : Use the next camera (if multiple cameras are set up)
+
 --------
 
 ![](assets/gb-blender_camera_additions 2021-12.png)
