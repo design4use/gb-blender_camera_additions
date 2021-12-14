@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Camera Additions for View 3D",
     "author": "German Bauer (inspired by original code for camera_fit_view by Yashar JafarKhanpour)",
-    "version": (1, 5),
+    "version": (0, 9),
     "blender": (2, 80, 0),
     "location": "View3D > View > Cameras",
     "category": "3D View",
