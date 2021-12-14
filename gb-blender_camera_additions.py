@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Camera Additions for View 3D",
-    "author": "German Bauer (inspired by original code for camera_fit_view by Yashar JafarKhanpour)",
+    "author": "German Bauer (inspired by original code for camera_fit_view by Yashar JafarKhanpour, for cyclecameras by CoDEmanX)",
     "version": (0, 9),
     "blender": (2, 80, 0),
     "location": "View3D > View > Cameras",
