@@ -9,7 +9,6 @@ Camera → View : Set the 3D view to the current camera\
 Previous Camera : Use the previous camera (if multiple cameras set up)\
 Next Camera : Use the next camera (if multiple cameras set up)\
 ..\
-![image](https://user-images.githubusercontent.com/66297/145933957-67f6da64-7157-48f5-bf91-91af8ad10a9b.png)
 <img src="https://user-images.githubusercontent.com/66297/145933957-67f6da64-7157-48f5-bf91-91af8ad10a9b.png" width="500">
 ..\
 To install into Blender:
