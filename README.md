@@ -1,4 +1,4 @@
-# # Blender script: Camera additions
+## Blender script: Camera additions
 ### Adds these actions to the View|Cameras menu in 3D view:
 
 View → Camera : set the current camera to the 3D view\
